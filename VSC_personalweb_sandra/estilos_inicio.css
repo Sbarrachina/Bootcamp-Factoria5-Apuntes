@@ -54,3 +54,44 @@ font-size:35px ;
 .card__profession{
     font-size: 20px;
 }
+.apuntes_html{
+  font-size:20px;
+  text-align: justify;
+  text-align:center ;
+
+  
+}
+.links_pdf{
+    font-size: 20px;
+    background-color: #afdebe;
+    width: 300px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding: 1.8rem;
+    text-align: left;
+    float: left;
+
+}
+
+.card_html{
+width: 100%;
+}
+
+.links_pdf{
+    font-size: 20px;
+    background-color: #afdebe;
+    width: 300px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding: 1.8rem;
+    text-align: left;
+    float: left;
+
+
+.card_ejercicios{
+width: 100%;
+}

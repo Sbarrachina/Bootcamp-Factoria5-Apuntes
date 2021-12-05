@@ -55,39 +55,47 @@ font-size:35px ;
     font-size: 20px;
 }
 .apuntes_html{
-  font-size:20px;
-  text-align: justify;
-  text-align:center ;
+  font-size:25px;
+  text-align:left;
+  margin:5%;
+  
+
 
   
 }
-.links_pdf{
-    font-size: 20px;
-    background-color: #afdebe;
-    width: 300px;
-    margin-left: 100px;
-    margin-right: auto;
-    margin-top: 3em;
-    margin-bottom: 3em;
-    padding: 1.8rem;
-    text-align: left;
-    float: left;
-
-}
-
 .card_html{
-width: 100%;
-}
+    width: 100%;
+    }
 
-.links_pdf{
-    font-size: 20px;
+.links_pdf-1{
+    font-size: 25px;
     background-color: #afdebe;
-    width: 300px;
+    width: 400px;
     margin-left: 100px;
     margin-right: auto;
-    margin-top: 3em;
+    margin-top: em;
     margin-bottom: 3em;
-    padding: 1.8rem;
+    padding: 2.8rem;
     text-align: left;
     float: left;
+
 }
+.card_html2{
+    width: 100%;
+    }
+
+.links_pdf-2{
+    font-size: 25px;
+    background-color: #afdebe;
+    width: 400px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: em;
+    margin-bottom: 3em;
+    padding: 2.8rem;
+    text-align: left;
+    float: left;
+
+}
+
+

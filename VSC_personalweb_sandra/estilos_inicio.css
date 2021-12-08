@@ -5,8 +5,8 @@ body{
     background-repeat: no-repeat;
 }
 .Banner1 {
-width: 1500px;
-height: 300px;
+width: 1980px;
+height: 400px;
 }
 
 ul {
@@ -117,4 +117,8 @@ font-size:35px ;
 
 }
 
-
+.texto_bienvenida{
+    font-size:25px;
+    text-align:left;
+    margin:5%;
+}

@@ -5,8 +5,9 @@ body{
     background-repeat: no-repeat;
 }
 .Banner1 {
-width: 1980px;
-height: 400px;
+width:100%;
+display: flex;
+flex-wrap: wrap;
 }
 
 ul {

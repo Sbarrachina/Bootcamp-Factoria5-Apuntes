@@ -140,7 +140,74 @@ width: 10px;
     padding: 0;
     }
     .PresentaciónJS{
-        font-size:25px;
-        text-align:left;
-        margin: 5%;
+    font-size:25px;
+    text-align:left;
+    margin: 5%;
     }
+
+.box_desarrollo{
+width: 100%;
+font-size: 25px;
+margin-left: px;
+margin-bottom: 3em;
+padding: 0.8rem;
+
+}
+
+.ArbolDesarrollo{
+width: 30%;
+font-size: 25px;
+width: 400px;
+margin-right: auto;
+margin-top: em;
+margin-bottom: 3em;
+padding: 0.8rem;
+text-align: left;
+float: left;
+
+    }
+.box_Katas{
+width: 100%;
+font-size: 25px;
+margin-left: 10px;
+margin-bottom: 3em;
+padding: 0.8rem;
+        
+}
+        
+.Karate_kata{
+font-size: 25px;
+width: 20%;
+margin-right: auto;
+margin-top: em;
+margin-bottom: 3em;
+padding: 0.8rem;
+text-align: left;
+float: left;
+         }
+.box_Recursos{
+    width: 300px;
+    border: 3px solid #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    background-color: #afdebe;
+
+}
+
+.Recursos__image{
+    width: 20%;
+    border-radius: 50%;
+    margin:0px;
+}
+.card__RecursosJS{
+font-size:40px ;
+}
+.card__sub_recursos{
+font-size: 30px;
+}
+
+

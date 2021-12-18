@@ -31,10 +31,6 @@ body{
         font-size: 20px;
     }
     
-
-
-
-
 h1{
 text-align: center; 
 margin-top: 100px; 
@@ -45,23 +41,6 @@ max-width: 100%;
 display: block; 
 
 }
-
-/* CSS FLEXBOX 1*/
-
-.flex{
-display: flex;
-flex-wrap: wrap;
-max-width: 800px;
-margin: 0 auto;
-}
-
-.flex > div {
-flex: 1 1 200px;
-margin: 10px;    
-}
-
-/* CSS Grid 2 */
-
 .grid2{
 display: grid;  
 grid-template-columns: 1fr 200px;
@@ -70,4 +49,18 @@ max-width: 800px;
 padding: 10px;
 margin: 0 auto;  
 }
+
+.libreta{
+max-width: 100%;  
+display: block;
+display: grid;  
+grid-template-columns: 1fr 200px;
+grid-gap: 20px;
+max-width: 800px;
+padding: 10px;
+margin: 0 auto;  
+}
+
+.links_libreta ul li{
+
 

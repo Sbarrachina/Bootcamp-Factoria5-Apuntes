@@ -82,6 +82,49 @@ padding: 250px 100px;
 
 
 
+social-media{
+    display:flex;
+    margin-top: 40px;
+    padding: 20px;
+}
+.icon{
+    width: 100px;
+    height: 50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: transforn 0.5
+
+}
+.icon img{
+    width: 40px;
+
+}
+.icon a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: 0.5;
+}
+
+.icon a:hover{
+   opacity: 1;
+
+}
+.icon:hover{
+    transform: translate(-5px);
+}
 
 
 

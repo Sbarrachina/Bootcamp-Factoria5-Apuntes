@@ -239,3 +239,38 @@ padding: 0px;
     width: 30%;
     
 }
+/* PÁGINA JAVA*/
+
+.Gif_java{
+    width: 40%;
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: em;
+}
+
+.main-containerTabla{
+    margin: 150 auto;
+    width: 600px;
+}
+
+table{
+    background-color: white;
+    border-collapse: collapse;
+    text-align:left ;
+    width: 200%;
+}
+th,td{
+    border: solid 1px black;
+    padding: 20px;
+
+}
+thead{
+    background-color: #afdebe;
+    color: rgb(11, 10, 10);
+    border-bottom: solid 5px #0f362d;
+}
+tr:nth-child(even){
+    background-color: #ddd;
+
+}

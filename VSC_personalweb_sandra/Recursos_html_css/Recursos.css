@@ -53,16 +53,6 @@ padding: 10px;
 margin: 0 auto;  
 }
 
-.libreta{
-max-width: 100%;  
-display: block;
-display: grid;  
-grid-template-columns: 1fr 200px;
-grid-gap: 20px;
-max-width: 800px;
-padding: 10px;
-margin: 0 auto;  
-}
 
 .contenedor{
 max-width: 100%;  

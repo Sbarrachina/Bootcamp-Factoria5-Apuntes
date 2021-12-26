@@ -274,3 +274,17 @@ tr:nth-child(even){
     background-color: #ddd;
 
 }
+.contenedor{
+    max-width: 100%;  
+    display: block;
+    display: grid;  
+    grid-template-columns: 1fr 200px;
+    grid-gap: 10px;
+    max-width: 800px;
+    margin: 0 auto;  
+    font-size: 25px;
+    background-image: url("Fotos/LibretaLinks.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 100px;
+}

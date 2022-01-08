@@ -288,3 +288,7 @@ tr:nth-child(even){
     background-repeat: no-repeat;
     padding: 250px 100px;
 }
+
+footer{
+    text-align: center;
+}

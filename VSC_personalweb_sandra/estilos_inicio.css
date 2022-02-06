@@ -348,7 +348,7 @@ tr:nth-child(even){
 :root {
     --primary-color: #333;
     --secondary-color: #444;
-    --alt-color:#afdebe;
+    --alt-color:#26dc60;
     --overlay: rgba(0,0,0,0.8);
     --container-width: 90vw;
   }
@@ -356,6 +356,7 @@ tr:nth-child(even){
     background-color: #000;
     color: #fff;
     padding: 4rem 0;
+    width: 100%;
 }
 
 .footer .container{
@@ -378,7 +379,4 @@ tr:nth-child(even){
 }
 .blog a:hover{
    color: var(--primary-color);
-}
-.Sb_logo{
-    width: 40%;
 }

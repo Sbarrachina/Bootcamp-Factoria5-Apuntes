@@ -312,11 +312,9 @@ footer{
     margin:20px
 }
 .Gif_react{
-    width: 45%;
+    width: 60%;
     padding: 10px;
     margin-left: 80px;
-    margin-right: auto;
-    margin-top: em;
 }
 .main-containerTabla{
     margin: 150 auto;
@@ -342,6 +340,9 @@ thead{
 tr:nth-child(even){
     background-color: #ddd;
 
+}
+.react-containerTabla{
+    margin:80px;
 }
 
 /*FOOTER*/
